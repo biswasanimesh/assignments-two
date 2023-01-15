@@ -236,7 +236,7 @@ nav li {
   font-family: "Work Sans", sans-serif;
 }
 
-.sponsors-para {
+.sponsor-para {
   font-weight: 400;
   font-size: 16px;
   font-family: "Work Sans", sans-serif;
@@ -262,7 +262,7 @@ nav li {
   margin-bottom: 295px;
 }
 .quote-para{
-    margin-top: 35px;
+    margin-top: 95px;
     font-weight: 400;
     font-size: 20px;
     color: #424242;
@@ -270,3 +270,9 @@ nav li {
     font-family: "Work Sans", sans-serif;
     align-content: center;
 }
+
+/*--------------------
+ Media Query
+ ----------------------*/
+
+ 
