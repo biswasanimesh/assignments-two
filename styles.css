@@ -1,3 +1,90 @@
-h1{
-    color: aquamarine;
+/*---------------------
+ section one 
+ -------------------------*/
+
+/* For the whole content*/
+.section.one {
+  /* padding: 200px; */
+  /* margin-left: 150px; */
+  padding-right: 150px;
+  /* margin-right: 150px;background-color: aquamarine; */
+  background: rgba(255, 144, 14, 0.1);
+  padding-left: 150px;
+}
+/* architects */
+.architects {
+  font-family: "Work Sans", sans-serif;
+  font-weight: 700;
+  font-size: 45px;
+  margin: 0;
+}
+nav {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 25px;
+}
+nav ul {
+  display: flex;
+  align-items: center;
+  font-family: "Work Sans", sans-serif;
+}
+nav li {
+  list-style: none;
+  margin-left: 50px;
+  color: #424242;
+}
+
+/* For center content*/
+.content {
+  text-align: center;
+}
+.banner-heading {
+  font-family: "Work Sans", sans-serif;
+  font-weight: 700;
+  font-size: 45px;
+}
+.banner-title{
+padding-top: 65px;
+}
+.banner-sub-title{
+padding-bottom: 15px;
+}
+
+.parag {
+  font-family: "Work Sans", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  color: #727272;
+  /* padding-top: 25px;
+  padding-bottom: 55px; */
+  padding: 25px 185px 55px 185px;
+
+}
+
+/* Button Section */
+.btn-primary {
+  width: 180px;
+  height: 64px;
+  background: #ff900e;
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 23px;
+  color: #ffffff;
+  border: 0;
+  padding: 21px 24px;
+  margin-bottom: 65px;
+}
+
+/* image */
+.image {
+  /* margin-right: 10%; */
+  width: 1157px;
+}
+
+/*----------------------
+ second section
+ ------------------------ */
+.image-flex-one{
+    display: flex;
 }
