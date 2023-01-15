@@ -298,6 +298,32 @@ nav li {
   padding-top: 39px;
 }
 
+
+/* Contact Section */
+
+.contact-art{
+    background-color: rgb(172, 249, 223);
+    border-radius: 15px;
+    margin-top: -95px;
+}
+
+.contact{margin-top: -65px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 45px;
+    font-family: "Work Sans", sans-serif;
+    color: #131313;
+}
+.contact-address{
+    font-weight: 700;
+    font-size: 27px;
+    font-family: "Work Sans", sans-serif;
+    color: #424242;
+    justify-content: space-around;
+    display: flex;
+    margin-bottom: 195px;
+}
+
 /* 
 /*----------------------------------
  Media Query/ Responsive Styles......
